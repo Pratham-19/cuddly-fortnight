@@ -182,14 +182,6 @@ const Header = ({ headerSetting = {} }) => {
                               <i className="fab fa-linkedin-in" />
                             </a>
                           </li>
-                          <li>
-                            <a
-                              href="#"
-                              className="axil-button btn-large btn-transparent rounded-lg"
-                            >
-                              Login
-                            </a>
-                          </li>
                         </ul>
                       </div>
                     )}
