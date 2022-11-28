@@ -32,7 +32,6 @@ const HomeThree = () => {
       </Head>
 
       <main className="page-wrapper">
-        {/* <BannerThree/> */}
         <BannerOne />
         <ServiceOne />
         <TeamOne />
